@@ -8,3 +8,13 @@ C:\Users\Jason\Documents\Visual Studio 2013\Projects\ModulVB\ArduinoToThingspeak
 C:\Users\Jason\Documents\Visual Studio 2013\Projects\ModulVB\ArduinoToThingspeak\ArduinoToThingspeak\obj\Debug\ArduinoToThingspeak.exe
 C:\Users\Jason\Documents\Visual Studio 2013\Projects\ModulVB\ArduinoToThingspeak\ArduinoToThingspeak\obj\Debug\ArduinoToThingspeak.xml
 C:\Users\Jason\Documents\Visual Studio 2013\Projects\ModulVB\ArduinoToThingspeak\ArduinoToThingspeak\obj\Debug\ArduinoToThingspeak.pdb
+C:\Users\Jason\Documents\GitHub\JaringanSensor\ArduinoToThingspeak\ArduinoToThingspeak\bin\Debug\ArduinoToThingspeak.exe.config
+C:\Users\Jason\Documents\GitHub\JaringanSensor\ArduinoToThingspeak\ArduinoToThingspeak\obj\Debug\ArduinoToThingspeak.exe
+C:\Users\Jason\Documents\GitHub\JaringanSensor\ArduinoToThingspeak\ArduinoToThingspeak\obj\Debug\ArduinoToThingspeak.xml
+C:\Users\Jason\Documents\GitHub\JaringanSensor\ArduinoToThingspeak\ArduinoToThingspeak\obj\Debug\ArduinoToThingspeak.pdb
+C:\Users\Jason\Documents\GitHub\JaringanSensor\ArduinoToThingspeak\ArduinoToThingspeak\bin\Debug\ArduinoToThingspeak.exe
+C:\Users\Jason\Documents\GitHub\JaringanSensor\ArduinoToThingspeak\ArduinoToThingspeak\bin\Debug\ArduinoToThingspeak.pdb
+C:\Users\Jason\Documents\GitHub\JaringanSensor\ArduinoToThingspeak\ArduinoToThingspeak\bin\Debug\ArduinoToThingspeak.xml
+C:\Users\Jason\Documents\GitHub\JaringanSensor\ArduinoToThingspeak\ArduinoToThingspeak\obj\Debug\ArduinoToThingspeak.Form1.resources
+C:\Users\Jason\Documents\GitHub\JaringanSensor\ArduinoToThingspeak\ArduinoToThingspeak\obj\Debug\ArduinoToThingspeak.Resources.resources
+C:\Users\Jason\Documents\GitHub\JaringanSensor\ArduinoToThingspeak\ArduinoToThingspeak\obj\Debug\ArduinoToThingspeak.vbproj.GenerateResource.Cache

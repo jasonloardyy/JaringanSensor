@@ -112,4 +112,11 @@ Public Class Form1
         RichTextBox1.SelectionStart() = RichTextBox1.TextLength
         RichTextBox1.ScrollToCaret()
     End Sub
+
+    Private Sub CheckBox1_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox1.CheckedChanged
+        If CheckBox1.Checked = False Then
+            TextBox3.Clear()
+            TextBox4.Clear()
+        End If
+    End Sub
 End Class
